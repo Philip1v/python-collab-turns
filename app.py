@@ -7,3 +7,4 @@ for line in read_entries():
     
 delete_last_entry()
 add_entry("B: replaced deleted entry")
+add_entry("A iteration")
